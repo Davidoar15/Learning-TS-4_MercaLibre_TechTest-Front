@@ -1,9 +1,5 @@
 
 
 export default function Home() {
-  return (
-    <main>
-      Hola
-    </main>
-  )
+  return (null)
 }
